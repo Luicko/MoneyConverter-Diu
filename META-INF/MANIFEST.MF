@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Luicko
+Class-Path: gson-2.8.5.jar
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_111
+Main-Class: MoneyConverter.ConverterFrame
+
